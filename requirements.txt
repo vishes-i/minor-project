@@ -6,3 +6,5 @@ joblib
 pillow
 matplotlib
 opencv-python-headless
+plotly==5.19.0
+
